@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="com.powertochange.p2cdiscover" type="module">
+  <file>p2cdiscover</file>
+  <name>PowerToChange Discover</name>
+  <description>Discover api calls needed to speed up pulse discover contact calls.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Colby Warkentin</author>
+    <email>colby.warkentin@p2c.com</email>
+  </maintainer>
+  <releaseDate>2014-03-26</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/P2cdiscover</namespace>
+  </civix>
+</extension>
