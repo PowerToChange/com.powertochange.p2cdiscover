@@ -14,7 +14,7 @@
   <compatibility>
     <ver>4.2</ver>
   </compatibility>
-  <comments>This is a new, undeveloped module</comments>
+  <comments>For use with the Pulse Beta site</comments>
   <civix>
     <namespace>CRM/P2cdiscover</namespace>
   </civix>
